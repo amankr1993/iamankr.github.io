@@ -94,7 +94,7 @@ $black			: #222;
 body {
   color: #777777;
   font-family: "Poppins", serif;
-  font-size: 15px;
+  font-size: 17px;
   font-weight: 300;
   line-height: 1.625em;
   position: relative;
@@ -942,7 +942,7 @@ h1 {
 }
 
 h2 {
-  font-size: 30px;
+  font-size: 39px;
 }
 
 h3 {
@@ -954,7 +954,7 @@ h4 {
 }
 
 h5 {
-  font-size: 16px;
+  font-size: 24px;
 }
 
 h6 {
