@@ -2367,7 +2367,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 .p1-gradient-color, .single-services:hover .lnr {
   background: -moz-linear-gradient(0deg, #8490ff 0%, #62bdfc 100%);
-  background: -webkit-linear-gradient(0deg, #8490ff 0%, #62bdfc 100%);
+  background: -webkit-linear-gradient(0deg, #191f58 0%, #62bdfc 100%);
   background: -ms-linear-gradient(0deg, #8490ff 0%, #62bdfc 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -3101,7 +3101,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 .about-content {
   margin-top: 70px;
-  padding: 90px 0px;
+  padding: 37px 0px;
   text-align: center;
 }
 
